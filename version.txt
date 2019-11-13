@@ -1,0 +1,37 @@
+VSVersionInfo(
+    ffi=FixedFileInfo(
+		filevers=(0, 0, 19, 1), 
+		prodvers=(4, 1, 2, 1),
+ 		mask=0x3f, 
+		flags=0x0, 
+		OS=0x40004, 
+		fileType=0x1, 
+		subtype=0x0, 
+		date=(0, 0)
+	), 
+    kids=[
+	StringFileInfo(
+	    [
+		StringTable(
+		    '040904b0', 
+		    [
+			StringStruct('Comments', 'Designed and coded by Asqat Qazet'), 
+			StringStruct('CompanyName', 'Asqat , Inc. 8  Dr. Arlington, VA 00001'), 
+			StringStruct('FileDescription', 'Kazakh language converter  is a free application for any users by Asqat'), 
+			StringStruct('FileVersion', '0, 0, 0, 1'), 
+			StringStruct('LegalCopyright', 'Asqat Qazet.'), 
+			StringStruct('LegalTrademarks', '.'), 
+			StringStruct('OriginalFilename', 'Kazakh language converter.exe'), 
+			StringStruct('ProductName', 'Converter'), 
+			StringStruct('ProductVersion', '1, 0, 0, 0')
+		    ]
+		)
+	    ]
+	),
+	VarFileInfo(
+	    [
+		VarStruct('Translation', [1033, 1200])
+	    ]
+	)
+    ]
+)
